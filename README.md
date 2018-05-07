@@ -16,7 +16,7 @@ Galiay Romain
 
 * Expression
   * Constante
-  * Varialbe
+  * Variable
   * Operateur
     * Addition
     * Soustraction
