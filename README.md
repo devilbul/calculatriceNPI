@@ -29,6 +29,11 @@ Galiay Romain
 
 
 ![Alt Text](https://i.imgur.com/jDo6SNy.png)
+
+
+_isConstante est du type bool
+
+
 ![Alt Text](https://i.imgur.com/QCVA20u.png)
 
 
