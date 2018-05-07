@@ -30,6 +30,8 @@ Galiay Romain
 
 ![Alt Text](https://i.imgur.com/jDo6SNy.png)
 ![Alt Text](https://i.imgur.com/QCVA20u.png)
+globals est du type : map<string, float>
+nous ne pouvons pas le faire avec le logiciel utilisé (Modelio)
 
 
 ##### Attributs et méthodes, pour chaque classe, :
