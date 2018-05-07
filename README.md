@@ -47,6 +47,12 @@ nous ne pouvons pas le faire avec le logiciel utilisé (Modelio)
 ![Alt Text](https://i.imgur.com/BBH11va.png)
 
 
+en rouge pseudo code,
+
+
+en noir nom de fonction ou nom de classe
+
+
 ### __Attributs et méthodes, pour chaque classe :__
 
 
