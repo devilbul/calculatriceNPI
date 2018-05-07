@@ -29,6 +29,7 @@ Galiay Romain
 
 
 ![Alt Text](https://i.imgur.com/jDo6SNy.png)
+![Alt Text](https://i.imgur.com/QCVA20u.png)
 
 
 ##### Attributs et méthodes, pour chaque classe, :
