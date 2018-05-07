@@ -44,6 +44,8 @@ globals est du type : map<string, float>
 nous ne pouvons pas le faire avec le logiciel utilisé (Modelio)
 
 
+![Alt Text](https://i.imgur.com/OLGKiO6.png)
+
 
 ### __Attributs et méthodes, pour chaque classe :__
 
