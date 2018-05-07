@@ -12,7 +12,7 @@ Galiay Romain
 ## _Rapport de conception :_
 
 
-#### __Classes identifiées :__
+#### *Classes identifiées :*
 
 * Expression
   * Constante
@@ -26,7 +26,7 @@ Galiay Romain
 
 
 
-#### __Diagrammes d'héritage, et d'utilisation des classes :__
+#### *Diagrammes d'héritage, et d'utilisation des classes :*
 
 
 ![Alt Text](https://i.imgur.com/jDo6SNy.png)
@@ -45,7 +45,7 @@ nous ne pouvons pas le faire avec le logiciel utilisé (Modelio)
 
 
 
-#### __Attributs et méthodes, pour chaque classe :__
+#### *Attributs et méthodes, pour chaque classe :*
 
 
 ![Alt Text](https://i.imgur.com/d2PA1Qh.png)
