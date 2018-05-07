@@ -1,6 +1,6 @@
 # Calculatrice en notation polonaise inversée
 
-## Groupe :
+## _Groupe :_
 
 Krings Anthony 
 
@@ -9,10 +9,10 @@ Leviez Damien
 Galiay Romain
 
 
-### Rapport de conception :
+## _Rapport de conception :_
 
 
-##### Classes identifiées :
+#### __Classes identifiées :__
 
 * Expression
   * Constante
@@ -25,7 +25,8 @@ Galiay Romain
 * Table
 
 
-##### Diagrammes d'héritage, et d'utilisation des classes :
+
+#### __Diagrammes d'héritage, et d'utilisation des classes :_
 
 
 ![Alt Text](https://i.imgur.com/jDo6SNy.png)
@@ -43,7 +44,8 @@ globals est du type : map<string, float>
 nous ne pouvons pas le faire avec le logiciel utilisé (Modelio)
 
 
-##### Attributs et méthodes, pour chaque classe, :
+
+#### __Attributs et méthodes, pour chaque classe, :___
 
 
 ![Alt Text](https://i.imgur.com/d2PA1Qh.png)
